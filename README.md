@@ -1,2 +1,2 @@
 # HCF-and-LCM
-C++ program to find HCF and LCM of two numbers.
+C++ program to find the HCF and LCM of entered two numbers.
